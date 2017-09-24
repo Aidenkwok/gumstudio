@@ -196,6 +196,9 @@ ul.banner-social-buttons {
     ul.banner-social-buttons {
       margin-top: 15px; } }
   @media (max-width: 767px) {
+    iframe{
+      width:100%;
+    }
     ul.banner-social-buttons li {
       display: block;
       margin-bottom: 20px;
@@ -248,8 +251,12 @@ body {
 .profile-picContainer{
   display: flex;
   align-items: flex-start;
-  justify-content: space-between;
+  justify-content: space-around;
   flex-wrap: wrap;
+}
+
+.profile-picContainer div{
+  margin: 1em;
 }
 
 .pic-name{
