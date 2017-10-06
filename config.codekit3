@@ -15,6 +15,78 @@
 		"oAP": "\/avenir-heavy-webfont.eot",
 		"oF": 0
 		},
+	"\/avenir\/AvenirLTStd-Black.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/avenir\/AvenirLTStd-Black.otf",
+		"oF": 0
+		},
+	"\/avenir\/AvenirLTStd-BlackOblique.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/avenir\/AvenirLTStd-BlackOblique.otf",
+		"oF": 0
+		},
+	"\/avenir\/AvenirLTStd-Book.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/avenir\/AvenirLTStd-Book.otf",
+		"oF": 0
+		},
+	"\/avenir\/AvenirLTStd-BookOblique.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/avenir\/AvenirLTStd-BookOblique.otf",
+		"oF": 0
+		},
+	"\/avenir\/AvenirLTStd-Heavy.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/avenir\/AvenirLTStd-Heavy.otf",
+		"oF": 0
+		},
+	"\/avenir\/AvenirLTStd-HeavyOblique.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/avenir\/AvenirLTStd-HeavyOblique.otf",
+		"oF": 0
+		},
+	"\/avenir\/AvenirLTStd-Light.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/avenir\/AvenirLTStd-Light.otf",
+		"oF": 0
+		},
+	"\/avenir\/AvenirLTStd-LightOblique.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/avenir\/AvenirLTStd-LightOblique.otf",
+		"oF": 0
+		},
+	"\/avenir\/AvenirLTStd-Medium.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/avenir\/AvenirLTStd-Medium.otf",
+		"oF": 0
+		},
+	"\/avenir\/AvenirLTStd-MediumOblique.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/avenir\/AvenirLTStd-MediumOblique.otf",
+		"oF": 0
+		},
+	"\/avenir\/AvenirLTStd-Oblique.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/avenir\/AvenirLTStd-Oblique.otf",
+		"oF": 0
+		},
+	"\/avenir\/AvenirLTStd-Roman.otf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/avenir\/AvenirLTStd-Roman.otf",
+		"oF": 0
+		},
 	"\/CNAME": {
 		"ft": 8192,
 		"oA": 2,
@@ -51,6 +123,14 @@
 		"sC": 1,
 		"tS": 0
 		},
+	"\/img\/Aiden.gif": {
+		"ft": 4194304,
+		"iS": 2534961,
+		"oA": 0,
+		"oAP": "\/img\/Aiden.gif",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/img\/Aiden.jpg": {
 		"ft": 16384,
 		"iS": 5291968,
@@ -81,6 +161,32 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/gum.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/gum.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/img\/helen.gif": {
+		"ft": 4194304,
+		"iS": 2729454,
+		"oA": 0,
+		"oAP": "\/img\/helen.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/holly.gif": {
+		"ft": 4194304,
+		"iS": 3485248,
+		"oA": 0,
+		"oAP": "\/img\/holly.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/intro-bg.jpg": {
 		"ft": 16384,
 		"iS": 88321,
@@ -91,6 +197,14 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/kirsty.gif": {
+		"ft": 4194304,
+		"iS": 3468333,
+		"oA": 0,
+		"oAP": "\/img\/kirsty.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/img\/map-marker.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -100,6 +214,30 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/img\/matthew.gif": {
+		"ft": 4194304,
+		"iS": 2190401,
+		"oA": 0,
+		"oAP": "\/img\/matthew.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/megan.gif": {
+		"ft": 4194304,
+		"iS": 3146237,
+		"oA": 0,
+		"oAP": "\/img\/megan.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/natalia.gif": {
+		"ft": 4194304,
+		"iS": 3357276,
+		"oA": 0,
+		"oAP": "\/img\/natalia.gif",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/img\/pic.jpg": {
 		"ft": 16384,
@@ -141,6 +279,14 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"\/img\/ruadhan.gif": {
+		"ft": 4194304,
+		"iS": 3578723,
+		"oA": 0,
+		"oAP": "\/img\/ruadhan.gif",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/index.html": {
 		"ft": 8192,
@@ -225,6 +371,16 @@
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
+		},
+	"\/scss\/grayscale.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/scss\/grayscale-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"\/scss\/grayscale.scss": {
 		"aP": 0,
